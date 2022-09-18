@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "odI/b3a6mC4uwLshf3W4MseONOctgb21Bimj+mTaodwYFjVnaHUz8nl2tyt132+5knQHkdS8PB61URiSL1+EuA==",
+  "success": true,
+  "projectFilePath": "/home/medas/repos/socialMedia/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/medas/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/medas/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/medas/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/medas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/medas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/medas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
